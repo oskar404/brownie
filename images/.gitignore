@@ -1,0 +1,2 @@
+# Do not store images directly from camera - atleast rename
+/IMG_*.jpg
