@@ -1,4 +1,6 @@
 # Project dependent
+*.img.xz
+.device
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
