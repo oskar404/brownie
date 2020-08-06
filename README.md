@@ -35,7 +35,7 @@ The idea is to put Raspberry Pi inside the camera body. The PoC hardware:
         ChallengeResponseAuthentication no
         PasswordAuthentication no
         UsePAM no
-        PermitRootLogin n
+        PermitRootLogin no
         ```
 
       and reload sshd configs `systemctl reload sshd.service`
