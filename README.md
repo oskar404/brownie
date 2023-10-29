@@ -41,3 +41,9 @@ The idea is to put Raspberry Pi inside the camera body. The PoC hardware:
       and reload sshd configs `systemctl reload sshd.service`
 
 Now we have a system ready for hacking.
+
+## Random Notes and Links
+
+- https://ubuntu.com/blog/how-to-stream-video-with-raspberry-pi-hq-camera-on-ubuntu-core
+- https://snapcraft.io/blog/easy-iot-with-ubuntu-core-and-raspberry-pi
+
